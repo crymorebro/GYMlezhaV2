@@ -1,42 +1,19 @@
-<<<<<<< HEAD
-# benchpresscalc
+# Bench Press Max Calculator (GYMlezhaV2) 🏋️‍♂️
 
-This template should help get you started developing with Vue 3 in Vite.
+Интерактивный веб-калькулятор для расчета одноповторного максимума (1RM) в жиме лежа и других базовых упражнениях. Проект создан на современном стекe с упором на плавный пользовательский интерфейс и отзывчивую анимацию.
 
-## Recommended IDE Setup
+## 🚀 Стек технологий
 
-[VS Code](https://code.visualstudio.com/) + [Vue (Official)](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur).
+*   **Framework:** Vue 3 (Composition API)
+*   **Build Tool:** Vite
+*   **Language:** TypeScript / JavaScript
+*   **Styles:** Чистый CSS (с поддержкой CSS-переменных и кастомных анимаций)
+*   **Deployment:** Vercel / GitHub Pages
 
-## Recommended Browser Setup
+## ✨ Особенности приложения
 
-- Chromium-based browsers (Chrome, Edge, Brave, etc.):
-  - [Vue.js devtools](https://chromewebstore.google.com/detail/vuejs-devtools/nhdogjmejiglipccpnnnanhbledajbpd)
-  - [Turn on Custom Object Formatter in Chrome DevTools](http://bit.ly/object-formatters)
-- Firefox:
-  - [Vue.js devtools](https://addons.mozilla.org/en-US/firefox/addon/vue-js-devtools/)
-  - [Turn on Custom Object Formatter in Firefox DevTools](https://fxdx.dev/firefox-devtools-custom-object-formatters/)
+*   **Мгновенный расчет:** Вычисление 1RM прямо на лету при изменении веса или количества повторений.
+*   **Кинематографичный интерфейс:** Кастомный дизайн с использованием современных градиентов, размытия (backdrop-filter) и плавных переходов.
+*   **Адаптивность:** Интерфейс идеально оптимизирован под мобильные флагманы и компактные экраны.
 
-## Customize configuration
-
-See [Vite Configuration Reference](https://vite.dev/config/).
-
-## Project Setup
-
-```sh
-npm install
-```
-
-### Compile and Hot-Reload for Development
-
-```sh
-npm run dev
-```
-
-### Compile and Minify for Production
-
-```sh
-npm run build
-```
-=======
-# GYMlezhaV2
->>>>>>> 48362727057972a865341977dbab6f4c07471b4e
+https://gy-mlezha-v2.vercel.app/
