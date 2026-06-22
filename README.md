@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # benchpresscalc
 
 This template should help get you started developing with Vue 3 in Vite.
@@ -36,3 +37,6 @@ npm run dev
 ```sh
 npm run build
 ```
+=======
+# GYMlezhaV2
+>>>>>>> 48362727057972a865341977dbab6f4c07471b4e
